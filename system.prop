@@ -1,0 +1,6 @@
+#
+# system.prop for olympus
+#
+
+ro.sf.lcd_density=240
+
