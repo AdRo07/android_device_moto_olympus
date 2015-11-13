@@ -1,6 +1,1 @@
-#
-# system.prop for olympus
-#
-
-ro.sf.lcd_density=240
-
+rild.libargs=-d /dev/pts/1
