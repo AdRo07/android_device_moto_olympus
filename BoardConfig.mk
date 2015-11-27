@@ -12,7 +12,8 @@ TARGET_KERNEL_CONFIG := tegra_olympus_defconfig
 BOARD_KERNEL_BASE := 0x00000000
 #0x00000800 = 2048
 BOARD_KERNEL_PAGESIZE :=  2048
-
+#use set_metadata on old recovery
+USE_SET_METADATA := false
 
 BOARD_EGL_CFG := device/moto/olympus/egl.cfg
 
