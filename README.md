@@ -10,6 +10,8 @@ im.fehead@gmail.com
 
 
 # atrix 4g info
+ [Motorola Atrix](http://droid-dev.mobi/wiki/Motorola_Atrix)
+ 
 	./split_bootimg.pl boot.img
 	Page size: 2048 (0x00000800)
 	Kernel size: 4538564 (0x004540c4)
