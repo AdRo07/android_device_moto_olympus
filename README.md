@@ -8,6 +8,13 @@ sungkisa@naver.com
 ##fehead##
 im.fehead@gmail.com
 
+# Repartition recovery , boot for 5.0+ roms
+before : 
+recovery  81922
+boot      8355840
+
+after :
+recovery,boot 33554432  
 
 # atrix 4g info
  [Motorola Atrix](http://droid-dev.mobi/wiki/Motorola_Atrix)
