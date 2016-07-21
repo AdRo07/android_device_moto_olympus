@@ -35,7 +35,8 @@ on init
     mkdir /pds 0755 root root
     #mkdir /osh 0755 root root
     #mkdir /preinstall 0755 root root
-
+    chmod 775 script/repartition.sh
+    ./script/repartition.sh
 on early-boot
     setprop ro.FOREGROUND_APP_MEM 3072
     setprop ro.VISIBLE_APP_MEM 4608
