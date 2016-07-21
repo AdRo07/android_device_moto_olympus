@@ -1,0 +1,21 @@
+# partition table of /dev/block/mmcblk0
+unit: sectors
+
+/dev/block/mmcblk0p1 : start=     1024, size=     7168, Id=83
+/dev/block/mmcblk0p2 : start=     8192, size=     1024, Id=83
+/dev/block/mmcblk0p3 : start=     9216, size=     4096, Id=83
+/dev/block/mmcblk0p4 : start=    13312, size= 30992384, Id= 5
+/dev/block/mmcblk0p5 : start=    14336, size=     2048, Id=83
+/dev/block/mmcblk0p6 : start=    16384, size=     1024, Id=83
+/dev/block/mmcblk0p7 : start=    17408, size=     1024, Id=83
+/dev/block/mmcblk0p8 : start=    18432, size=     2048, Id=83
+/dev/block/mmcblk0p9 : start=    20480, size=     4096, Id=83
+/dev/block/mmcblk0p10: start=    24592, size=    65536, Id=83
+/dev/block/mmcblk0p11: start=    90144, size=    65536, Id=83
+/dev/block/mmcblk0p12: start=   155696, size=   655360, Id=83
+/dev/block/mmcblk0p13: start=   811072, size=  1572864, Id=83
+/dev/block/mmcblk0p14: start=  2383952, size=    40960, Id=83
+/dev/block/mmcblk0p15: start=  2424928, size=  1310720, Id=83
+/dev/block/mmcblk0p16: start=  3735664, size=  4194304, Id=83
+/dev/block/mmcblk0p17: start=  7929984, size=   706560, Id=83
+/dev/block/mmcblk0p18: start=  8636560, size= 22369136, Id=83
