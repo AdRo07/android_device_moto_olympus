@@ -5,7 +5,7 @@ if [ -f /system/jeju-repartition ];then
 
 
   echo Already repartitioned
-  reboot
+  
 
 else
 
